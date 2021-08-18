@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apoorv
 - 👀 I’m into new exciting tech stuff.
-- 🌱 I’m currently learning Web Technologies.
+- 🌱 I’m currently learning developing Web Apps.
 
 <!---
 apoorv-rawat/apoorv-rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
